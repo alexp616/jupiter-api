@@ -1,3 +1,7 @@
+This is a cloned repository from https://github.com/Wolfiej-k/jupiter-api.
+
+***
+
 # Jupiter API
 
 > This library is a third-party API to retrieve student grades, courses, and assignments from the [JupiterEd](https://jupitered.com/) education platform. Implemented using TypeScript, Node.js, and the [Puppeteer](https://github.com/puppeteer/puppeteer) web-crawling library. 
